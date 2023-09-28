@@ -36,3 +36,15 @@ AutoManager offers a wide range of features to enhance your server:
 Visit our website for more information: [AutoManager](https://auto-manager.tk)
 
 Need help or want to join our community? Join our support server: [AutoManager Support](https://discord.gg/S3kUjyjhZN)
+
+<div align="center">
+  <a style="font-size: 16px;
+    margin-inline-end: 16px;
+    background: rgb(57, 148, 255);
+    color: white;
+    line-height: 22px;
+    padding: 15px 24px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-bottom: 12px; margin-top: 12px;" href="YOUR_INVITE_LINK">Add to Discord</a>
+</div>
