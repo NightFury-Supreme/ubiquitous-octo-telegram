@@ -27,15 +27,6 @@ AutoManager offers a wide range of features to enhance your server:
 - **Economy:** Gamify your server with an exciting economy system.
 - **Leveling:** Reward active members with leveling and XP.
 - **Invites:** Monitor and reward server invites.
-- <a style="font-size: 16px;
-    margin-inline-end: 16px;
-    background: rgb(57, 148, 255);
-    color: white;
-    line-height: 22px;
-    padding: 15px 24px;
-    border-radius: 12px;
-    display: inline-block;
-    margin-bottom: 12px; margin-top: 12px;" href="https://discord.com/oauth2/authorize?client_id=942355671154847774&scope=bot%20identify%20guilds%20applications.commands&response_type=code&redirect_uri=https://auto-manager.tk/thanks&permissions=1099511627767" target="_blank">Invite AutoManager to your server</a>
 - **And more:** Explore a plethora of additional features to enhance your server!
 
 <div align="center">
@@ -45,3 +36,6 @@ AutoManager offers a wide range of features to enhance your server:
 Visit our website for more information: [AutoManager](https://auto-manager.tk)
 
 Need help or want to join our community? Join our support server: [AutoManager Support](https://discord.gg/S3kUjyjhZN)
+
+To invite AutoManager to your Discord server, click the button below:
+<a href="https://discord.com/oauth2/authorize?client_id=942355671154847774&scope=bot%20identify%20guilds%20applications.commands&response_type=code&redirect_uri=https://auto-manager.tk/thanks&permissions=1099511627767" style="font-size: 16px; margin-inline-end: 16px; background: rgb(57, 148, 255); color: white; line-height: 22px; padding: 15px 24px; border-radius: 12px; display: inline-block; margin-bottom: 12px; margin-top: 12px;">Invite AutoManager</a>
